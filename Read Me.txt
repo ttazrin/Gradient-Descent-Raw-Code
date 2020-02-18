@@ -1,0 +1,5 @@
+Gradient descent implementation for two functions:
+
+1. f(x) = x^2 with x ϵ [-5 , 5] and x(initial) = 4.5
+
+2. f(x) = (sin(10πx)/ 2x) + (x-1)^4 with x ϵ [0.5 , 2.5] and x(initial) = 2.4
